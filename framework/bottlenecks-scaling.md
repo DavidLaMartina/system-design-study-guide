@@ -1,6 +1,3 @@
-## framework/bottlenecks-scaling.md
-
-```markdown
 ---
 layout: default
 title: Bottlenecks & Scaling

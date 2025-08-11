@@ -2,7 +2,7 @@
 layout: default
 title: Application-level Caching
 parent: Scaling Patterns
-nav_order: 3
+nav_order: 2
 ---
 
 ## How Redis Works ##
@@ -90,3 +90,5 @@ When to use Redis
 * Sub-millisecond response requirements
 * Simple data structures (strings, lists, sets, hashes)
 This is why most systems use Redis as a **cache layer or specialized database** rather than replacing their primary database entirely. It's about using the right tool for each access pattern.
+
+**Next:** [Database Replication](database-replication.html)

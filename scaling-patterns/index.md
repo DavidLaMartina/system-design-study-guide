@@ -90,7 +90,8 @@ When discussing scaling in interviews or design reviews:
 3. Explain trade-offs, e.g. "A CDN reduces latency but adds cache invalidation complexity."
 4. Show progression, e.g. "Initially we'd use caching, but at 10x scale we'd need sharding."
 
-**[Content Delivery Networks](cdn.html)**
-**[Database Replication](database-relication.html)**
-**[Application Caching](application-caching.html)**
-**[Messaging Queues](message-queues.html)**
+1. **[Content Delivery Networks](cdn.html)**
+2. **[Application Caching](application-caching.html)**
+3. **[Database Replication](database-relication.html)**
+4. **[Sharding](sharding.html)**
+5. **[Messaging Queues](message-queues.html)**

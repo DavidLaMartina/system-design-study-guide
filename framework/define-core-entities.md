@@ -5,7 +5,7 @@ parent: Interview Framework
 nav_order: 3
 ---
 
-# Step 2: Estimate Scale
+# Step 3: Define Core Entities
 {: .no_toc }
 
 ## Table of Contents

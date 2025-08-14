@@ -13,3 +13,6 @@ The following are questions I asked myself during the course of study, while wat
 1. **[Load Balancers](load-balanacers.html)**
 2. **[SQL vs. NoSQL](sql-nosql.html)**
 3. **[Redis](redis.html)**
+4. **[Videos & Other Large Media](videos.html)**
+5. **[Transportation Layer Security (TLS)](tls.html)**
+6. **[Containers](containers.md)**

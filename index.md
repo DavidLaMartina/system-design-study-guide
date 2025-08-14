@@ -17,7 +17,8 @@ A comprehensive guide for senior-level system design interviews, focusing on str
 4. **[Calculations](calculations/)** - Back-of-envelope math techniques
 5. **[Trade-offs](tradeoffs/)** - Navigate technical decisions
 6. **[Interview Skills](interview-skills/)** - Communicate like a senior engineer
-7. **[Questions & Answers](questions-answers.html)** - Various Q&A related to all things system design
-8. **[Resources](resources.html)** - Resources consulted in constructing this guide
+7. **[Questions & Answers](questions-answers/)** - Various Q&A related to all things system design
+8. **[Resources](resources/)** - Resources consulted in constructing this guide
+9. **[Real-world Designs](real-world-designs/)** - Breakdowns of real-world system designs
 
 > **Philosophy**: Senior interviews aren't just about technical correctness—they're about demonstrating structured thinking, business awareness, and leadership capability.
